@@ -1,9 +1,16 @@
 # Setup
 
-Create a virtual env, with python3 it's done by
+Use virtual env to keep depenciens isolated or Run with Docker 
+
 
 ```
-python3 -m venv /path/to/new/virtual/environment
+pip install virtualenv
+```
+
+Go to the project folder and create a virtual env
+
+```
+virtualenv -p /usr/bin/python2.7 venv
 ```
 
 Enter env by 
