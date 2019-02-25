@@ -10,13 +10,13 @@ pip install virtualenv
 Go to the project folder and create a virtual env
 
 ```
-virtualenv -p /usr/bin/python2.7 venv
+virtualenv -p /usr/bin/python2.7 Yourname
 ```
 
 Enter env by 
 
 ```
-source name/bin/activate
+source Yourname/bin/activate
 ```
 
 Install requements 
